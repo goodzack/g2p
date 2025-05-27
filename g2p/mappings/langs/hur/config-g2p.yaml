@@ -25,3 +25,15 @@ mappings:
     case_sensitive: false
     norm_form: NFD
     language_name: Halkomelem
+  - display_name: Halkomelem 'Straight' encoding to Halkomelem APA
+    in_lang: hur-straight
+    out_lang: hur-apa
+    authors:
+      - Zack Gilkison
+    type: mapping
+    rules_path: hur_straight_to_hur_apa.json
+    prevent_feeding: false
+    rule_ordering: as-written
+    case_sensitive: false
+    norm_form: NFD
+    language_name: Halkomelem
