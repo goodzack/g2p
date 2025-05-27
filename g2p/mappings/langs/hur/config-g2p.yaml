@@ -37,3 +37,4 @@ mappings:
     case_sensitive: false
     norm_form: NFD
     language_name: Halkomelem
+    escape_special: true
