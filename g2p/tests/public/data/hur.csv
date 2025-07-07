@@ -132,9 +132,39 @@ hur-apa,hur,em̓ə,e’mu
 hur-apa,hur,im̓ə,i’mu
 hur-apa,hur,am̓ə,a’mu
 hur-apa,hur,əm̓ə,um’u
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+hur-apa,hur,Kʷθə wi∙léʔɬ ʔəy cqʷémət̕ᶿtən,kwthu wiile’lh ’uy tsqwemutthtun
+>>>>>>> f6e4a4b (fix: missed Halkomelem Straight characters and escape_characters setting)
+=======
+hur-apa,hur,Kʷθə wi∙léʔɬ ʔəy cqʷémət̕ᶿtən,kwthu wiile’lh ’uy tsqwemutth’tun
+>>>>>>> 1bf8a45 (fix: add encountered graphemes for hur APA and 'straight' encoding)
+=======
+>>>>>>> 55ce290 (fix: missed Halkomelem Straight characters and escape_characters setting)
+>>>>>>> ec3d483 (fix: add encountered graphemes for hur APA and 'straight' encoding)
 hur,hur-apa,hun’lhultnamut-s,hən̓łəltnaməts
 hur,hur-apa,tl’lim’,ƛ̓lim̓
 hur-straight,hur-apa,|,ɛ
 hur-straight,hur-apa,p|∑,pɛw̓
 hur-straight,hur-apa,p;∑i,pəw̓i
+<<<<<<< HEAD
 hur-straight,hur-apa,p;Σi,pəw̓i
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+hur-straight,hur-apa,p;Σi,pəw̓i
+=======
+hur-straight,hur-apa,p;Σi,pəw̓i
+>>>>>>> f6e4a4b (fix: missed Halkomelem Straight characters and escape_characters setting)
+=======
+hur-straight,hur-apa,p;Σi,pəw̓i
+>>>>>>> 1bf8a45 (fix: add encountered graphemes for hur APA and 'straight' encoding)
+=======
+hur-straight,hur-apa,p;Σi,pəw̓i
+>>>>>>> 55ce290 (fix: missed Halkomelem Straight characters and escape_characters setting)
+>>>>>>> ec3d483 (fix: add encountered graphemes for hur APA and 'straight' encoding)
